@@ -31,7 +31,7 @@
 
 <div>
     <a href="https://github.com/devdievin?tab=repositories">
-    <img width="50%" height="180" src="https://github-readme-stats.vercel.app/api?username=devdievin&show_icons=true&include_all_commits=false&count_private=true&theme=react" alt="github stats"/>
-    <img width="auto" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdievin&langs_count=6&layout=compact&theme=react" alt="github stats"/>
+    <img width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=devdievin&show_icons=true&include_all_commits=false&count_private=true&theme=react" alt="github stats"/>
+    <img width="335" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdievin&langs_count=6&layout=compact&theme=react" alt="github stats"/>
     </a>
 </div>
