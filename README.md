@@ -5,27 +5,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://google.com.br "Linkedin")
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevdievin@gmail.com "Gmail")
 
-"Dievin" para os amigos, apaixonado por front-end e javascript. Também me viro bem no back-end. Estou sempre criando algo no meu tempo livre, aprendendo novas tecnologias e ferramentas.
+"Dievin" para os amigos, apaixonado por front-end e javascript. Também me viro bem no back-end. Estou sempre criando algo no meu tempo livre, aprendendo novas ferramentas e tecnologias.
 
-#### Linguagens e Ferramentas
+#### Habilidades e Ferramentas
 
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" title="Javascript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" title="Typescript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="react js" title="React JS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="nextjs" title="Next Js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="node js" title="Node Js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html" title="Html5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css" title="Css3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap" title="Bootstrap"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="sass" title="Sass"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="git" title="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" title="Mongodb"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="mysql" title="Mysql"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" title="Figma"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="photoshop" title="Photoshop"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48" height="48" alt="express" title="Express"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,html,css,bootstrap,sass,git,mongodb,mysql,postgres,figma,ps,jest,vercel,netlify)](https://skillicons.dev)
 
 <hr>
 
