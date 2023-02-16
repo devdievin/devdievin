@@ -9,7 +9,7 @@
 
 #### Habilidades e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,html,css,bootstrap,sass,git,mongodb,mysql,postgres,figma,ps,jest,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,html,css,bootstrap,sass,git,mongodb,mysql,postgres,figma,ps,jest,vercel,netlify,styledcomponents,redux)](https://skillicons.dev)
 
 <hr>
 
