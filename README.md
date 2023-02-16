@@ -1,9 +1,9 @@
 ### Olá, eu sou o Diêvano Dantas 👋
 >Desenvolvedor Web Fullstack 👨‍💻
 
-[![portfolio](https://img.shields.io/website-up-down-green-red/https/dievanodantas.netlify.app?label=portfolio&style=for-the-badge)](https://dievanodantas.netlify.app "Meu portfolio")
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dievano-dantas "Linkedin")
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevdievin@gmail.com "Gmail")
+<a href="https://dievanodantas.netlify.app" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/https/dievanodantas.netlify.app?label=portfolio&style=for-the-badge" alt="portfolio" title="Meu portfolio"/></a>
+<a href="https://www.linkedin.com/in/dievano-dantas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="Linkedin"/></a>
+<a href="mailto:contatodevdievin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" title="Gmail"/></a>
 
 "Dievin" para os amigos, apaixonado por front-end e javascript. Também me viro bem no back-end. Estou sempre criando algo no meu tempo livre, aprendendo novas ferramentas e tecnologias.
 
