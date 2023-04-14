@@ -5,7 +5,13 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dievano-dantas "Linkedin")
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevdievin@gmail.com "Gmail")
 
-"Dievin" para os amigos, apaixonado por front-end e javascript. Também me viro bem no back-end. Estou sempre criando algo no meu tempo livre, aprendendo novas ferramentas e tecnologias.
+Olá, seja bem-vindo(a) ao meu perfil! Meu nome é Diêvano, e eu sou um desenvolvedor Web Fullstack atuando como freelancer. Estou no mundo da programação desde 2015, mas estudo a área de TI à mais de 10 anos. Sou apaixonado pelo desenvolvimento de soluções web inovadoras e eficazes.
+
+Sou comprometido e confiável, sempre buscando entregar projetos de alta qualidade aos meus clientes. Meu objetivo é entender as necessidades do cliente e fornecer soluções personalizadas que atendam às suas expectativas.
+
+Minha experiência em diversas tecnologias e ferramentas me permite trabalhar em projetos de diversos tamanhos e complexidades. Além disso, estou sempre buscando aprender mais e me manter atualizado com as tendências mais recentes do mercado.
+
+Se você está procurando um desenvolvedor web confiável e dedicado, que possa ajudá-lo(a) a atingir seus objetivos de negócios, sinta-se à vontade para entrar em contato comigo. Estou sempre pronto para novos desafios e ansioso para trabalhar com você!
 
 #### Habilidades e Ferramentas
 
