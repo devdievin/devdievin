@@ -15,7 +15,7 @@ Se você está procurando um desenvolvedor web confiável e dedicado, que possa 
 
 #### Habilidades e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,js,ts,java,html,css,bootstrap,sass,git,mongodb,mysql,postgres,postman,jest,figma,ps,linux,vercel,netlify,styledcomponents,redux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,js,ts,java,html,css,bootstrap,sass,git,mongodb,mysql,postgres,postman,jest,figma,ps,linux,vercel,netlify,styledcomponents,redux,tailwind,prisma)](https://skillicons.dev)
 
 <hr>
 
