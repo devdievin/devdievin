@@ -19,9 +19,9 @@ Se você está procurando um desenvolvedor web confiável e dedicado, que possa 
 
 <hr>
 
-<div>
+<div style="display: flex; align-items: center;">
     <a href="https://github.com/devdievin?tab=repositories">
-    <img width="400" height="180" src="https://github-readme-stats-devdievin.vercel.app/api?username=devdievin&show_icons=true&include_all_commits=false&count_private=true&theme=react" alt="github stats"/>
-    <img width="335" height="180" src="https://github-readme-stats-devdievin.vercel.app/api/top-langs/?username=devdievin&langs_count=6&layout=compact&theme=react" alt="github stats"/>
+        <img width="400" height="180" src="https://github-readme-stats-dievin.vercel.app/api?username=devdievin&show_icons=true&include_all_commits=false&count_private=true&theme=react" alt="github stats"/>
+        <img width="335" height="180" src="https://github-readme-stats-dievin.vercel.app/api/top-langs/?username=devdievin&langs_count=6&layout=compact&theme=react" alt="github stats"/>
     </a>
 </div>
