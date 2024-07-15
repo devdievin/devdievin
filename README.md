@@ -1,7 +1,7 @@
 ### Olá, eu sou o Diêvano Dantas 👋
 >Desenvolvedor Web Fullstack 👨‍💻
 
-[![portfolio](https://img.shields.io/website-up-down-green-red/https/dievanodantas.netlify.app?label=portfolio&style=for-the-badge)](https://dievanodantas.netlify.app "Meu portfolio")
+[![portfolio](https://img.shields.io/website-up-down-green-red/https/dievanodantas.vercel.app?label=portfolio&style=for-the-badge)](https://dievanodantas.vercel.app "Meu portfolio")
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dievano-dantas "Linkedin")
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevdievin@gmail.com "Gmail")
 
