@@ -1,9 +1,4 @@
 ### Hi, I’m Diêvano 👋  
-> Web Developer 👨‍💻
-
-[![portfolio](https://img.shields.io/website-up-down-green-red/https/dievanodantas.vercel.app?label=portfolio&style=for-the-badge)](https://dievanodantas.vercel.app "My portfolio")
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dievano-dantas "LinkedIn")
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevdievin@gmail.com "Gmail")
 
 ## 👨‍💻 About me
 
